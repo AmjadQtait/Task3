@@ -1,0 +1,18 @@
+.mainService
+{
+    background-color: white;
+    text-align: center;
+}
+.service
+{
+    display: inline-block;
+    width: 25%;
+}
+
+i
+{
+    color: rgb(255, 145, 0);
+}
+
+
+
